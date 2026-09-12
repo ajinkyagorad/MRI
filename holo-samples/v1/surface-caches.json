@@ -1,0 +1,18 @@
+{
+  "format": "surface-qem-v4",
+  "triangleBudget": 160000,
+  "assets": [
+    {
+      "file": "4c36c98a85b7be398d9ef9ef3d950ac27a91bd11d4b0f6096d24e9332de4838b.mesh",
+      "sha256": "1ad1f9e32b46b33a8a10f7704fb9cda18ead160f72cb4c08dce722e1cf66b2f7",
+      "bytes": 2649445,
+      "title": "Head surface cache"
+    },
+    {
+      "file": "50a8eb019b4808a166d2cb6cb045788b5aa533cd1c63f23d308e76ebc7934f28.mesh",
+      "sha256": "46263eec0ab7a48b35a8081053fc5dd5beeb46790db2f03d201ef4dd4dd59815",
+      "bytes": 2777281,
+      "title": "Brain surface cache"
+    }
+  ]
+}
