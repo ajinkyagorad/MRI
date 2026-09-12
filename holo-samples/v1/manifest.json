@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "subject": "TMF_005",
+  "assets": [
+    {
+      "key": "scan",
+      "file": "TMF_005_t1.nii.gz",
+      "bytes": 8984714,
+      "sha256": "8855c4bf28ef3c8ab19d8a5cd051166a13c89d8ea9703aab15bfd55806cfaaf7",
+      "description": "T1 MRI"
+    },
+    {
+      "key": "head",
+      "file": "TMF_005_t1_siam.nii.gz",
+      "bytes": 515605,
+      "sha256": "ba894c27a0a4868fc1d7ea5738cd7634da3d27376a75041be9100d9cc5f60728",
+      "description": "Whole-head SIAM segmentation: 39 structures"
+    },
+    {
+      "key": "brain",
+      "file": "TMF_005_atlas_aseg.nii.gz",
+      "bytes": 403183,
+      "sha256": "47cff2603f604e648210dbd14dbdb8526f5e3f7071c2f51840b2bee551de1500",
+      "description": "Separate FreeSurfer brain parcellation: 95 structures"
+    }
+  ]
+}
